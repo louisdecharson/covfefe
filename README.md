@@ -1,15 +1,13 @@
 # #covfefe
 
 Despite the constante negative covfefe, you can get [@realDonaldTrump](https://twitter.com/realDonaldTrump/) last tweet right into your console.
+You'll need [nodeJS](https://nodejs.org/en/download/) installed though.
 
 ## Install
 ```
-$ git clone "https://github.com/louisdecharson/covfefe.git"
-$ npm install -g
+$ npm install "https://github.com/louisdecharson/covfefe.git" -g
 ```
-
-Enjoy !
 
 ![ScreenCovfefe](screenshot.png)
 
-**Made with covfefe**
+**Made with #covfefe**
