@@ -10,6 +10,6 @@ $ npm install -g
 
 Enjoy !
 
-[!ScreenCovfefe](screenshot.png)
+![ScreenCovfefe](screenshot.png)
 
 **Made with covfefe**
