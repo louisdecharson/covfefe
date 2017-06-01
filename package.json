@@ -1,0 +1,29 @@
+{
+  "name": "covfefe",
+  "version": "0.0.1",
+  "description": "a CLI tool displaying last @realdonaldtrum tweet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisdecharson/covfefe.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "@louisdecharson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louisdecharson/covfefe/issues"
+  },
+  "homepage": "https://github.com/louisdecharson/covfefe#readme",
+  "bin": {
+    "covfefe": "./index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0"
+  }
+}
