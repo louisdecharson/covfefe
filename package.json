@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.1",
+    "commander": "^2.19.0",
     "request": "^2.81.0"
   }
 }
